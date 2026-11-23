@@ -1,5 +1,11 @@
 # @ai-sdk/tool-web-fetch
 
+## 1.0.31
+
+### Patch Changes
+
+- ai@7.0.181
+
 ## 1.0.30
 
 ### Patch Changes
